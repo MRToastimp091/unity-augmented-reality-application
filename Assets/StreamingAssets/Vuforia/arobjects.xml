@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="qrcodeof_windgenerator" size="1.000000 1.000000" />
+    <ImageTarget name="qrcodeof_solarbattery" size="1.000000 1.000000" />
+    <ImageTarget name="qrcodeof_location" size="1.000000 1.000000" />
+    <ImageTarget name="qrcodeof_house" size="1.000000 1.000000" />
+    <ImageTarget name="qrcodeof_hospital" size="1.000000 1.000000" />
+    <ImageTarget name="qrcodeof_factory" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
